@@ -1,9 +1,12 @@
-WarningPrefaceText: Some errors were encountered during mod loading, these may be the result of incompatibility with other mods
+WarningPrefaceText: 加载Mod时出现了问题，这可能是与其它模组的兼容性问题
 MissingDropRule: "{0} drop rule not present in {1}"
-FancyLightingWallShineDelegateMissing: Could not find the method responsible for Fancy Lighting's wall lighting
+// 看不懂这句
+FancyLightingWallShineDelegateMissing: 找不到负责Fancy Lighting墙壁照明的方法
+
 
 DropRuleType: {
-	Main: Main
-	Emblem: Emblem
-	Weapon: Weapon
+	Main: 主要
+	Emblem: 徽章
+// Emblem：徽章or象征
+	Weapon: 武器
 }
