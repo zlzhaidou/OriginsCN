@@ -1,0 +1,66 @@
+Generic: {
+	Riven: Blue Lobster
+	Dusk: Duck
+	Defiled: Blŏkus
+	Defiled_Wastelands: Blŏkusland™
+	The_Defiled_Wastelands: "{$Mods.Origins.AprilFools.Generic.Defiled_Wastelands}"
+	Defiled_Amalgamation: District Attorney
+	Hoarder: Chimney Smoker
+	Defiled_Antibody: Blŏkusland™ Employee
+	Defiled_Antibodies: Blŏkusland™ Employees
+}
+
+Status_Messages: {
+	Defiled_Fissure_1: is that bone-hurting juice?
+	Defiled_Fissure_2: owww my bones hurt a lot
+	Defiled_Fissure_3: oww oof my booones!!!
+	Cleansing_Station_Invalid_Location: Evil magicks do janky stuff and ya can't use this here
+}
+
+Items: {
+	Defiled_Bar.DisplayName: Spare Chunks
+	Laser_Tag_Gun.Tooltip: Pew pew, Motherfucker...
+	Miter_Saw.DisplayName: Miter Did See
+	Lost_Pants.Tooltip: '''"Honey, where are my pants?"'''
+	Jam_Sandwich.Tooltip: "'This is my jam... Get your own.'"
+	Mine_Flayer.Tooltip:
+		'''
+		Doesn't actually flay mines
+		Releases a barrage of canisters when swung
+		wrong% chance not to consume ammo
+		'''
+	Hot_Potato.Tooltip: "'Be careful, it's a potato'"
+	Bottled_Brine.DisplayName: Pickle Jar
+	No_U_Card.Tooltip: The greatest 'fuck you' ever
+	Kruncher.DisplayName: Crunker
+	Ancient_Kruncher.DisplayName: Cranker
+	Suspicious_Looking_Pebble.DisplayName: Sus Looking Unusually Round Pebble
+}
+
+Dialogue.Brine_Fiend.InteractionWind: It fucken WIMDY!
+
+DeathMessage: {
+	Torn_0: "{0} beezechurgered."
+	Torn_1: "{0} realized there's no such thing as a 'riven pool party.'"
+	Torn_2: "{0} learned Terrarian anatomy faster than they teach in school."
+	Torn_3: "{0} enjoys being vored."
+	// oh god no, YESSSS
+	Torn_4: "{0} was compelled by the Primordial Amoeba to 'Split apart.'"
+}
+
+AltBiomes: {
+	Defiled_Wastelands_Alt_Biome.GenPassName: Bribing local authorities to ignore {§Defiled_Wastelands}'s many health code violations
+	Riven_Hive_Alt_Biome.GenPassName: Establishing {§Riven}
+}
+
+Biomes: {
+	Defiled_Wastelands_Ice_Biome: {
+		DisplayName: "{§Defiled_Wastelands} Signature Patent-Pending Cold-Park"
+		TownNPCDialogueName: the {§Defiled_Wastelands} Signature Patent-Pending Cold-Park
+	}
+
+	Riven_Hive_Ocean_Biome: {
+		DisplayName: "{§Riven_Hive} but wetter"
+		TownNPCDialogueName: the place where Riven Jesus, our savior: {§Riven_Hive} can be found
+	}
+}
