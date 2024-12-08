@@ -1,13 +1,13 @@
 Conditions: {
-	AprilFools: on April Fools' day
-	KillsGuide: This kills the Guide
-	AprilFoolsHandyHelper: Does not consume Handy Helper
-	And: "{0} and {1}"
-	Or: "{0} or {1}"
-	Not: Not {0}
+	AprilFools: 在愚人节
+	KillsGuide: 这杀死了向导
+	AprilFoolsHandyHelper: 不要食用Handy助手
+	And: "{0}和{1}"
+	Or: "{0}或{1}"
+	Not: 非{0}
 	Comma: "{0}, {1}"
-	QuestCompleted: After completing "{0}"
-	PeatSoldCondition: After selling {0} peat moss to the Demolitionist
+	QuestCompleted: 完成"{0}"后
+	PeatSoldCondition: 在卖给爆炸商人{0}个泥炭藓后
 	Brine: Mods.Origins.Conditions.Brine
 	RivenWater: Amebic Gel
 	ShimmerDecrafting: Shimmer decrafting only
