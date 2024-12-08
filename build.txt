@@ -1,0 +1,10 @@
+displayName = 泰拉瑞亚：起源汉化补丁{测试}
+author = 虞悖, moon.ditch
+version = 0.1
+translationMod = true
+side = Client
+hideResources = true
+modReferences = Origins
+weakReferences = OriginsMusic
+sortAfter = OriginsMusic
+homepage = https://github.com/zlzhaidou/OriginsCN
