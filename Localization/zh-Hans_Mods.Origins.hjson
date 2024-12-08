@@ -33,45 +33,45 @@ Status_Messages: {
 	Defiled_Fissure_2: 墙壁在吱吱作响...
 	Defiled_Fissure_3: 天空中回荡着恐怖的尖叫声...
 	Cleansing_Station_Invalid_Location: 你不能在附近有evil存在的情况下使用它.*
-	Felnum_Spawn: Felnum祝福了云!
+	Felnum_Spawn: Felnum祝福了云!*
 }
 
 Laser_Tag: {
-	Teams: Teams
-	CTG: Capture the gem
-	CTGNeedOwnGem: Don't allow Teams with their gem stolen to score
-	Building: Allow Building
-	StartButton: Start
-	RespawnTime: Revive Time
-	ShortTime: $60!:{0:0.##} Seconds$
+	Teams: 团队
+	CTG: 捕获宝石
+	CTGNeedOwnGem: Don't allow Teams with their gem stolen to score不要让宝石被盗的团队得分*
+	Building: 允许建筑
+	StartButton: 开始
+	RespawnTime: 复活时间
+	ShortTime: $60!:{0:0.##} 秒$
 	LongTime: $60!:{0:#0}:$$60:{0:00}$
-	Time: Match Duration
-	Indefinite: Indefinite
-	Elimination: Elimination
-	HP: Hit Points
-	PointsToWin: Points to Win
-	Score: "{0} scored!"
-	Victory: "{0} wins!"
-	Team_Red: Red team
-	Team_Green: Green team
-	Team_Blue: Blue team
-	Team_Yellow: Yellow team
-	Team_Purple: Pink team
-	NeedWinConditions: You can't start a laser tag game with these settings because it couldn't be won
-	Hud_Points: "{0} points"
+	Time: 比赛持续时间
+	Indefinite: Indefinite不确定*
+	Elimination: Elimination淘汰*
+	HP: 生命点
+	PointsToWin: Points to Win点获胜*
+	Score: "得到了{0}分!"
+	Victory: "{0}获胜了!"
+	Team_Red: 红队
+	Team_Green: 绿队
+	Team_Blue: 蓝队
+	Team_Yellow: 黄队
+	Team_Purple: 粉队
+	NeedWinConditions: 你不能以一个无法获胜的设置开始laser tag.*
+	Hud_Points: "{0}点"
 }
 
 ItemDropConditions: {
-	SoulOfNight: Drops in Underground evil biomes
-	DownedPlantBoss: Found after defeating Plantera
+	SoulOfNight: 掉落自地下evil群系*
+	DownedPlantBoss: 在击败世纪之花后找到
 }
 
 Tooltips: {
 	Modifiers: {
-		BlastRadius: "{0} blast radius"
-		SelfDamage: "{0} self-damage"
-		Spread: "{0}° spread"
-		ArtifactMaxLife: "{0} maximum life"
+		BlastRadius: "{0}爆炸半径"
+		SelfDamage: "{0}自身伤害"
+		Spread: "{0}°spread"*
+		ArtifactMaxLife: "{0}最大生命值"
 	}
 }
 
@@ -79,10 +79,10 @@ FishQuest: {
 	Prikish: {
 		Description:
 			'''
-			It's more poky than your average puffer and more deadly! It's not toxic so don't worry, but it can get through your head!
-			It's the Defiled we're talking about here! I want you to go and find that fish bubbling around in the Wastelands and bring it back to me!
+			它比你平常见到的河豚要更迟钝，也更致命！不用担心，它没有毒！但它可以穿透你的头骨！
+			这就是我们在谈论的Defied！我要你去找那条在Wastelands里冒泡的鱼，把它带回来给我！
 			'''
-		Location: Caught in {§Defiled_Wastelands}
+		Location: 在{§Defiled_Wastelands}捕获
 	}
 
 	Bonehead_Jellyfish: {
@@ -91,7 +91,7 @@ FishQuest: {
 			They have bony heads because of how much they hit walls. Careful when touching it, the slime will dissolve your hands!
 			Go get me that jellyfish in the Hive and be careful!
 			'''
-		Location: Caught in {§Riven_Hive}
+		Location: 在{§Riven_Hive}捕获
 	}
 
 	Duskarp: {
