@@ -8,35 +8,35 @@ Krunch_Mix: {
 	DisplayName: Krunch Mix
 	Tooltip:
 		'''
-		{$CommonItemTooltip.MinorStats} and further increased regeneration
-		'Taste the graynbow'
+		{$CommonItemTooltip.MinorStats}并促进生命恢复增加
+		'尝尝彩虹的味道'
 		'''
 }
 
 ACME_Crate: {
-	DisplayName: ACME Crate
+	DisplayName: ACME板条箱
 	Tooltip:
 		'''
-		Greatly increased explosive blast radius
-		Explosives will detonate near enemies
+		极大的增加爆炸范围
+		炸弹会在敌人附近引爆
 		'''
 }
 
 Advanced_Imaging: {
-	DisplayName: Advanced Imaging
+	DisplayName: 高级影像护目镜
 	Tooltip:
 		'''
-		Increased projectile speed
-		Immunity to Confusion
+		增加射击速度
+		免疫混乱
 		'''
 }
 
 Air_Tank: {
-	DisplayName: Air Tank
+	DisplayName: 空气瓶
 	Tooltip:
 		'''
-		Extends underwater breathing
-		Immunity to ‘Suffocation’
+		延长水下呼吸
+		对“窒息”的免疫
 		'''
 }
 
@@ -4117,23 +4117,23 @@ Newsboy_Cap: {
 }
 
 Abyssal_Anchor: {
-	DisplayName: Abyssal Anchor
+	DisplayName: Abyssal Anchor海渊船锚
 	Tooltip:
 		'''
-		+15% melee speed
-		+10% generic damage
-		+5% magic damage
-		+4% critical strike chance
-		+4 HP/s life regeneration
-		+20 mana
-		+8 defense
-		+5% damage reduction
-		+25% mana shielding
-		+25% mining speed
-		+1 minion knockback
-		Increased pick-up range for stars
-		-25% movement speed
-		-40% jump speed
+		增加15%近战伤害
+		增加10%generic伤害  //是全职业伤害还是新职业的伤害，占位符
+		增加5%魔法伤害
+		增加4%暴击率
+		生命恢复增加4 HP/s
+		最大魔力值增加20
+		最大防御力增加8
+		增加5%伤害减免
+		增加25% mana shielding //魔力值护盾，这是什么玩意占位符
+		增加25%挖矿速度
+		召唤物击退增加1
+		增加魔力星的拾取范围
+		减少25%移动速度
+		减少40%跳跃高度
 		'''
 }
 
