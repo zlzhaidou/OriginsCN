@@ -1,7 +1,7 @@
 Conditions: {
 	AprilFools: 在愚人节
 	KillsGuide: 这杀死了向导
-	AprilFoolsHandyHelper: 不要食用Handy助手
+	AprilFoolsHandyHelper: 不要食用Handy助手*
 	And: "{0}和{1}"
 	Or: "{0}或{1}"
 	Not: 非{0}
@@ -13,9 +13,9 @@ Conditions: {
 // Amebic，一个病名是这个词然后这么翻译的
 	ShimmerDecrafting: 仅能用微光拆解
 	ShimmerTransmutation: 微光转化
-	DownedDefiledAmalgamation: 在击败the Defiled Amalgamation后
-	DownedWorldCracker: 在击败the World Cracker后
-	DownedScrapper: After defeating the Scrapper
+	DownedDefiledAmalgamation: 在击败the Defiled Amalgamation后*
+	DownedWorldCracker: 在击败the World Cracker后*
+	DownedScrapper: 在击败the Scrapper后*
 }
 
 ModMenu: {
@@ -29,11 +29,11 @@ RecipeGroups: {
 }
 
 Status_Messages: {
-	Defiled_Fissure_1: Your body suddenly aches everywhere...
-	Defiled_Fissure_2: Rattling emanates from the walls...
-	Defiled_Fissure_3: The skies echo a threatening call...
-	Cleansing_Station_Invalid_Location: You cannot use this with an evil presence nearby.
-	Felnum_Spawn: The clouds have been blessed with Felnum!
+	Defiled_Fissure_1: 你的身体变得疼痛难耐...
+	Defiled_Fissure_2: 墙壁在吱吱作响...
+	Defiled_Fissure_3: 天空中回荡着恐怖的尖叫声...
+	Cleansing_Station_Invalid_Location: 你不能在附近有evil存在的情况下使用它.*
+	Felnum_Spawn: Felnum祝福了云!
 }
 
 Laser_Tag: {
