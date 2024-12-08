@@ -9,11 +9,12 @@ Conditions: {
 	QuestCompleted: 完成"{0}"后
 	PeatSoldCondition: 在卖给爆炸商人{0}个泥炭藓后
 	Brine: Mods.Origins.Conditions.Brine
-	RivenWater: Amebic Gel
-	ShimmerDecrafting: Shimmer decrafting only
-	ShimmerTransmutation: Shimmer Transmutation
-	DownedDefiledAmalgamation: After defeating the Defiled Amalgamation
-	DownedWorldCracker: After defeating the World Cracker
+	RivenWater: 阿米巴凝胶
+// Amebic，一个病名是这个词然后这么翻译的
+	ShimmerDecrafting: 仅能用微光拆解
+	ShimmerTransmutation: 微光转化
+	DownedDefiledAmalgamation: 在击败the Defiled Amalgamation后
+	DownedWorldCracker: 在击败the World Cracker后
 	DownedScrapper: After defeating the Scrapper
 }
 
